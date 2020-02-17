@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedMeasure", "SpeedMeasure\SpeedMeasure.csproj", "{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Debug|x64.ActiveCfg = Debug|x64
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Debug|x64.Build.0 = Debug|x64
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Release|x64.ActiveCfg = Release|x64
+		{2D9AF784-88A9-4959-A5D5-74AEA97E4AD1}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D02CE89D-4D44-4432-918F-0166C2B88732}
+	EndGlobalSection
+EndGlobal
